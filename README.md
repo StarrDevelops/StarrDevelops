@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Jacob Starr (StarrDevelops) 👋
 
-<!--
-**StarrDevelops/StarrDevelops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔬 Clinical Precision ➔ 💻 Software Engineering
+I am a former High-Volume Clinical Laboratory professional transitioning into the world of Full-Stack Development. My background in Nucleic Acid Testing and Serology at the nation's highest-volume lab has instilled in me a "zero-error" mindset and a passion for data integrity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Current Focus
+I am currently working through **The Odin Project**, building a solid foundation in web technologies and logic-based problem solving.
+
+- 🔭 **Current Project:** Building foundational web structures and Python scripts.
+- 🌱 **Learning:** Full-Stack JavaScript (ES6+), Python, and Linux (WSL2).
+- ⚡ **Fun Fact:** My GitHub history actually dates back to 2021, and I'm back to turn the grid green!
+
+---
+
+### 🛠️ My Tech Stack (Evolving)
+![My Skills](https://skillicons.dev/icons?i=js,py,html,css,git,linux,vscode,github)
+
+---
+
+### 📊 GitHub Stats
+![StarrDevelops Stats](https://github-readme-stats.vercel.app/api?username=StarrDevelops&show_icons=true&theme=radical)
+![StarrDevelops Streak](https://github-readme-stats.demolab.com?user=StarrDevelops&theme=radical)
+
+---
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/starrdevelops)
