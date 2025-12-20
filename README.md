@@ -21,7 +21,6 @@ I am currently working through **The Odin Project**, building a solid foundation
 
 ### 📊 GitHub Stats
 ![StarrDevelops Stats](https://github-readme-stats.vercel.app/api?username=StarrDevelops&show_icons=true&theme=radical)
-![StarrDevelops Streak](https://github-readme-stats.demolab.com?user=StarrDevelops&theme=radical)
 
 ---
 
